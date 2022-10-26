@@ -1,0 +1,58 @@
+
+;; ----- smex-history -----
+(
+ dired
+ shell
+ dired-jump
+ term
+ bs-show
+ revert-buffer
+ grep-find
+)
+
+;; ----- smex-data -----
+(
+ (display-battery-mode . 1)
+ (count-matches . 2)
+ (list-packages . 4)
+ (package-install . 2)
+ (company-mode . 10)
+ (clipboard-yank . 10)
+ (shell . 38)
+ (tab-bar-mode . 18)
+ (display-line-numbers-mode . 9)
+ (customize-variable . 2)
+ (magit . 10)
+ (magit-mode . 3)
+ (magit-mode-menu . 2)
+ (window-swap-states . 1)
+ (ido-mode . 2)
+ (align . 1)
+ (align-regexp . 2)
+ (magit-display-repository-buffer . 1)
+ (magit-repolist-status . 2)
+ (magit-log . 2)
+ (grep . 7)
+ (undo-redo . 2)
+ (neotree . 2)
+ (revert-buffer . 90)
+ (global-hl-line-mode . 1)
+ (find-variable-at-point . 2)
+ (find-function-at-point . 1)
+ (multi-occur . 4)
+ (occur . 1)
+ (grep-find . 46)
+ (kill-buffer . 2)
+ (apply-macro-to-region-lines . 5)
+ (grep-find-toggle-abbreviation . 1)
+ (gdb . 1)
+ (gud-gdb . 4)
+ (dired . 9)
+ (org-mode . 2)
+ (dired-do-find-regexp-and-replace . 2)
+ (find-grep-dired . 1)
+ (find-name-dired . 2)
+ (bs-show . 1)
+ (term . 1)
+ (dired-jump . 2)
+)
