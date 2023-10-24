@@ -2,4 +2,14 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-()
+(("data.cc"
+ (filename . "~/scratch3/audacity_project/audacity_audata_schema_serialize/audacity/src/audata/data.cc")
+ (front-context-string . "\n\nvoid ArrayData")
+ (rear-context-string . "\n    return s;\n}")
+ (position . 7618))
+("hash"
+ (filename . "~/scratch3/audacity_project/audacity_audata_schema_serialize/audacity/src/util/Hash.h")
+ (front-context-string . "\n\n    /// ~HashM")
+ (rear-context-string . "sh_mult (int x);")
+ (position . 11259))
+)

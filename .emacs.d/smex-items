@@ -1,28 +1,28 @@
 
 ;; ----- smex-history -----
 (
- dired
  shell
- dired-jump
- term
- bs-show
+ cscope-help
+ help-mode
  revert-buffer
- grep-find
+ magit
+ gdb
+ comment-region
 )
 
 ;; ----- smex-data -----
 (
  (display-battery-mode . 1)
- (count-matches . 2)
+ (count-matches . 6)
  (list-packages . 4)
  (package-install . 2)
  (company-mode . 10)
  (clipboard-yank . 10)
- (shell . 38)
+ (shell . 84)
  (tab-bar-mode . 18)
  (display-line-numbers-mode . 9)
  (customize-variable . 2)
- (magit . 10)
+ (magit . 58)
  (magit-mode . 3)
  (magit-mode-menu . 2)
  (window-swap-states . 1)
@@ -35,24 +35,36 @@
  (grep . 7)
  (undo-redo . 2)
  (neotree . 2)
- (revert-buffer . 90)
+ (revert-buffer . 100)
  (global-hl-line-mode . 1)
  (find-variable-at-point . 2)
  (find-function-at-point . 1)
  (multi-occur . 4)
  (occur . 1)
- (grep-find . 46)
+ (grep-find . 155)
  (kill-buffer . 2)
  (apply-macro-to-region-lines . 5)
  (grep-find-toggle-abbreviation . 1)
- (gdb . 1)
- (gud-gdb . 4)
- (dired . 9)
+ (gdb . 41)
+ (gud-gdb . 5)
+ (dired . 11)
  (org-mode . 2)
- (dired-do-find-regexp-and-replace . 2)
- (find-grep-dired . 1)
- (find-name-dired . 2)
- (bs-show . 1)
- (term . 1)
- (dired-jump . 2)
+ (dired-do-find-regexp-and-replace . 5)
+ (find-name-dired . 16)
+ (find-grep-dired . 29)
+ (dired-jump . 1)
+ (term . 3)
+ (dired-find-file . 5)
+ (c++-mode . 1)
+ (compile . 3)
+ (next-error . 1)
+ (gdb-many-windows . 3)
+ (comment-region . 22)
+ (uncomment-region . 17)
+ (global-set-key . 1)
+ (comment-or-uncomment-region . 1)
+ (customize-group . 2)
+ (org-edit-inline-src-code . 1)
+ (help-mode . 1)
+ (cscope-help . 1)
 )
