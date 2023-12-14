@@ -1,13 +1,13 @@
 
 ;; ----- smex-history -----
 (
+ toggle-frame-maximized
+ winner-mode
+ customize-themes
  shell
  cscope-help
  help-mode
  revert-buffer
- magit
- gdb
- comment-region
 )
 
 ;; ----- smex-data -----
@@ -67,4 +67,7 @@
  (org-edit-inline-src-code . 1)
  (help-mode . 1)
  (cscope-help . 1)
+ (customize-themes . 2)
+ (winner-mode . 2)
+ (toggle-frame-maximized . 1)
 )
