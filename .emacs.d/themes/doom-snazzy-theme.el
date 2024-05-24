@@ -66,6 +66,8 @@
    (va             '("#abf50c" "#abf50c" "va"))
    (modeline       '("#524a9f" "#524a9f" "ml"))
 
+   (str       '("#8ec114" "#8ec144" "str"))
+
    (Klein_blue            '("#002FA7" "#002FA7" "k_blue"))
    (Hermes_orange         '("#D75F28" "#D75F28" "h_orange"))
    (Tiffny_blue           '("#81D8CF" "#81D8CF" "t_blue"))
@@ -103,7 +105,7 @@
    (methods        Tiffny_blue) ;; wtf is the difference between this and function?
    (operators      magenta)
    (type           Hermes_orange)
-   (strings        Sete_yellow)
+   (strings        str)
    ;; (variables      (doom-lighten magenta 0.4))
    (variables      self_yellow)
    (numbers        Sete_yellow)
