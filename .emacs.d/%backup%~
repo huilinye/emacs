@@ -1,0 +1,11 @@
+./build_audata_release.csh \
+    --rootdir "voltus-`date +%F`" \
+    --audacity_branch master \
+    --gcc_root /vols/ssvrd_t1_012/UI/tools/gcc/12.2.0/RHEL7 \
+    --python_root /grid/common/pkgs/python/v3.9.0 \
+
+##    --verbose \
+##    --git_mode none
+
+# clean up extraneous directories
+
